@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(78, 134, 219);
+    font: normal 15pt arial;
+    text-align: center;
+
+    }
+input#txtn{
+    text-align: center;
+    width: 50px;
+}
+
+p{
+    text-align: center;
+    
+}
+header{
+    color: white;
+    
+    }
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 35px;
+    width: 200px;
+    margin: auto;
+    box-shadow: 3px 3px 20px rgb(53, 52, 52);
+    }
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+    }
